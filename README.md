@@ -1,4 +1,5 @@
 # CODTECH_Task1
+
 # Basic Calculator Web Application
 
 This repository contains a simple web-based calculator application built using Flask, a popular Python web framework. The application allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
