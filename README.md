@@ -1,7 +1,7 @@
 # CODTECH_Task1
 
 
-
+![Screenshot 2024-08-27 214411](https://github.com/user-attachments/assets/06a6d8e2-16aa-4f3c-8d46-9cd67c33631f)
 
 
 # Basic Calculator Web Application
