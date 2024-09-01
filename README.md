@@ -1,5 +1,5 @@
 # CODTECH_Task1
-![Calculator Screenshot](CODTECH_Task1/Screenshot_2024-08-27_214411.png)
+
 
 
 
