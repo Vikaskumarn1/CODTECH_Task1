@@ -1,5 +1,13 @@
 # CODTECH_Task1
 
+NAME:VIKAS KUMAR
+Company:CODETECH IT SOLUTIONS
+ID:CT6WDS1600
+Domain:Python programming
+Duration:6 weeks from August 5th,2024 to September 20th,2024
+Mentor:Muzammil Ahmed
+
+
 
 ![Screenshot 2024-08-27 214411](https://github.com/user-attachments/assets/06a6d8e2-16aa-4f3c-8d46-9cd67c33631f)
 
